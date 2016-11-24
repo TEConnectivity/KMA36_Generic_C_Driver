@@ -28,3 +28,6 @@ The KMA36 is a highly reliable universal magnetic position sensor IC for precise
 * Set accuracy
 * Set resolution
 * Angle measurement
+
+
+**NB:** This driver is intended to provide an implementation example of the sensor communication protocol, in order to be usable you have to implement a proper I2C layer for your target platform.
