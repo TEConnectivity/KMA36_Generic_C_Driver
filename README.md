@@ -3,11 +3,11 @@ Generic C driver for the [KMA36 sensor](http://www.te.com/usa-en/product-CAT-MRS
 
 ![kma36](http://www.te.com/content/dam/te-com/catalog/part/CAT/MRS/000/CAT-MRS0001-t1.jpg/jcr:content/renditions/product-details.png)
 
-##Sensor Description
+## Sensor Description
 
 The KMA36 is a highly reliable universal magnetic position sensor IC for precise rotational or linear measurement with a resolution up to 0.04 degree.
 
-###Specifications
+### Specifications
 *	Resolution: 13-Bits / 0.04 degree
 *	Operating power supply range of 3V to 5.5V
 *	Operating temperature: -25 - +85 °C
@@ -17,7 +17,7 @@ The KMA36 is a highly reliable universal magnetic position sensor IC for precise
 *	I2C Clockrate Up to 100 kBit/s 
 
 
-##Library features
+## Library features
 * Connection test
 * Reset
 * Set I2C address
